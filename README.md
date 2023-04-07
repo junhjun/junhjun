@@ -6,8 +6,6 @@
 -->
 
 <br>
-<br>
-<br>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></picture> About me
 
@@ -35,7 +33,6 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-<br>
 <br>
 <br>
 <br>
