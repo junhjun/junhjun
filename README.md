@@ -9,9 +9,9 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"></picture> **About me**
 
-- I'm BS student majoring in Industrial Engineering and minoring in Big Data Analytics at Inha University.
-- I'm interested in computer vision, especially RGB-D Object Detection and Segmentation.
-- I'm currently conducting research on Image Generation and Object Segmentation.
+- I'm BS student majoring in Industrial Engineering and minoring in Big Data Analysis at Inha University.
+- I'm interested in computer vision, especially Generative Models and Object Detection.
+- I'm currently conducting research on Image Generation and Object Detection.
 
 <br>
 
