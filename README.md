@@ -10,7 +10,8 @@
 
 ## RESEARCH INTERESTS
 - Generative Models
-- Image/Video Object Detection
+- Video Tracking
+- 3D Vision
 
 <br>
 
